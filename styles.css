@@ -1,0 +1,100 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("imagenes/acuarela-real-fondo-rojo-san-valentin_1340-4006.avif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+header {
+  background-color: #d30423;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.character-section {
+  text-align: center;
+  padding: 50px;
+}
+
+.character {
+  margin-bottom: 30px;
+}
+
+.character img {
+  width: 200px;
+  height: auto;
+}
+
+.character h3 {
+  margin-top: 10px;
+}
+
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
+.contact-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contact-form input,
+.contact-form textarea,
+.contact-form button {
+  display: block;
+  margin-bottom: 90px;
+}
+.contact-form input,
+.contact-form textarea,
+.contact-form button {
+  display: block;
+  margin-bottom: 10px;
+  width: 500px;
+  height: 30px;
+
+}
+
+
+          
+        
+        
+        
+
+
